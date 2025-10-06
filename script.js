@@ -208,7 +208,7 @@ const pages = {
                             <p class="text-gray-600 mb-4">Beautiful, intuitive designs that engage users and enhance brand identity.</p>
                             <ul class="text-sm text-gray-500 space-y-1">
                                 <li>• User Research</li>
-                                <li>• Wireframing & Prototyping</li>
+                                <li>• Wireframe & Prototyping</li>
                                 <li>• Brand Identity Design</li>
                             </ul>
                         </div>
