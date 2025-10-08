@@ -42,3 +42,8 @@
 .invisible{
   display: none;
 }
+
+
+.my-flex{
+  display: flex;
+}
